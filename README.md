@@ -64,6 +64,8 @@ Welcome to Jobs Hub, a dynamic web application designed to streamline the job se
 ![Screenshot 2023-12-21 194647](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/e434997c-fd04-4ea9-9815-8a9bcaf53e4b)
 ![Screenshot 2023-12-21 194752](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/ad524a82-fd48-4945-878c-ef749575c74a)
 ![Screenshot 2023-12-21 192732](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/23a1f632-292d-4670-9db8-df880e231002)
+![Screenshot 2023-12-21 194845](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/7b5fab94-f948-4a9c-813b-46f41c059f31)
+
 ![Screenshot 2023-12-21 194938](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/4ac52da3-ced7-4273-a552-6af04116797d)
 ![Screenshot 2023-12-21 192733](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/4266688b-374a-40e4-8bb7-eba04dbb380b)
 ![Screenshot 2023-12-21 195042](https://github.com/NeerajKumar805/Jobs-Hub/assets/69098331/7c54e333-ba8d-421e-ab1b-d60fcb6eaea9)
